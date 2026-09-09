@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Enzo 👋
 
-<!--
-**EnzoP-A/EnzoP-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at emlyon business school  
+💼 Interested in Strategy Consulting, Tech & Data  
+🚀 Building practical projects to develop my technical and business skills
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently developing a hybrid business and technology profile, with a particular interest in:
+
+- Strategy & Management Consulting
+- Technology and Digital Transformation
+- Data & Business Analytics
+- Tech Sales & CRM
+
+## Currently learning
+
+- Excel & Data Analysis
+- Python
+- CRM & HubSpot
+- Git & GitHub
+- AI Agents & Automation
+
+## Current projects
+
+This GitHub profile is currently under construction.  
+Projects and case studies will be added progressively.
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/enzo-pruvost-ahehehinnou)
